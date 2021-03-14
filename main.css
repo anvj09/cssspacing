@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #493a25;
+  display: flex;
+}
+.box1 {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  margin: auto;
+}
+.box2 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  margin: auto;
+}
+.box3 {
+  height: 150px;
+  width: 150px;
+  background-color: yellow;
+  margin: auto;
+}
+/*# sourceMappingURL=main.css.map */
