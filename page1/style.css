@@ -13,8 +13,8 @@ body {
   height: 200px;
   background-color: red;
   top: 90px;
-  left: 550px;
-  position: absolute;
+  left: 47%;
+  position: fixed;
 }
 .box2 {
   width: 100px;
