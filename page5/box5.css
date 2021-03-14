@@ -1,0 +1,18 @@
+.box1 {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin-top: 100px;
+}
+.box2 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  margin: 0;
+}
+.box3 {
+  width: 150px;
+  height: 150px;
+  background-color: yellow;
+}
+/*# sourceMappingURL=box5.css.map */
